@@ -1,4 +1,4 @@
 # HackDalton: Decompile
 
 ## Problem:
-I found this program online, but it just seems to spit out garbage whenever I run it. Can you find the flag?
+I found this program online, but I keep getting unlucky and not getting a flag. Can you help?
